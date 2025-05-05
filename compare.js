@@ -9,7 +9,7 @@
     const EMOS=["ang","sad","hap","fru","neu","exc","sur","fea","dis"];
     const EMO_LABEL={
       ang:"Anger", sad:"Sadness", hap:"Happiness", fru:"Frustration",
-      neu:"Neutral", exc:"Excitement", sur:"Surprise", fea:"Fear", dis:"Disgust"
+      neu:"Neutral", exc:"Excitement", sur:"Surprise", fea:"Fear", dis:"Disappointment"
     };
     const COL1="#4285F4", COL2="#FB8C00";   /* radar colours */
 
