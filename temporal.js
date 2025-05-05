@@ -6,7 +6,7 @@
     const EMOS = ["ang","sad","hap","fru","neu","exc","sur","fea","dis"];
     const EMO_LABEL = {
       ang: "Anger", sad: "Sadness", hap: "Happiness", fru: "Frustration",
-      neu: "Neutral", exc: "Excitement", sur: "Surprise", fea: "Fear", dis: "Disgust"
+      neu: "Neutral", exc: "Excitement", sur: "Surprise", fea: "Fear", dis: "Disappointment"
     };
     const COLORS = d3.scaleOrdinal(EMOS, d3.schemeTableau10);
 
